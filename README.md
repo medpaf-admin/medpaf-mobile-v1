@@ -7,6 +7,7 @@
 - Luis
 - Damian
 
+### Tasks
 
  - [x] Generate Github Project
  - [ ] Android Studio Configuration
